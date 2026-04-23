@@ -1,0 +1,47 @@
+[
+  {
+    "id": "bereshit",
+    "he": "בְּרֵאשִׁית",
+    "en": "Bereshit",
+    "subtitle": "Beginnings",
+    "color": "#C4956A",
+    "narrative": "Bereshit tells the story of Abraham and his descendants who leave their religion and home in search of truth yet become foreigners in a foreign land. At the age of 24 I left the religious world. Split between my religious past and secular present, I had never made amends between these two selves. Making my way up Israel, I crossed through religious and secular spaces I had once called home in search of a common ground. Looking up old friends and my former Rabbis, I wondered if I could find understanding across difference. Feeling welcome and comfortable among the communities I had once been part of, I found closure with the world I so abruptly left behind.",
+    "weekRange": [1, 14]
+  },
+  {
+    "id": "shemot",
+    "he": "שְׁמוֹת",
+    "en": "Shemot",
+    "subtitle": "Sacrifice & Redemption",
+    "color": "#7A9E7E",
+    "narrative": "In Exodus, the Nation is born through hardship and exile. Like many of my fellow Israeli citizens, upon graduating high school I was drafted into mandatory military service and fought as a combat soldier. Before this, I had never stopped to reflect upon the open psychological scars this experience had left upon my psyche — and the psyche of the Israeli nation. Following a Covid-19 lockdown, I wound my way through the North discussing the traumas of military service with friends and strangers while visiting iconic sights of Israeli sacrifice. This culminated in a visit to the grave of Barkai — a neighbor who served under me in my infantry unit and fell in 2017 fighting in Gaza.",
+    "weekRange": [15, 28]
+  },
+  {
+    "id": "vayikra",
+    "he": "וַיִּקְרָא",
+    "en": "Vayikra",
+    "subtitle": "The Other",
+    "color": "#8B7355",
+    "narrative": "Vayikra teaches the rituals for approaching sacred otherness — with a pure and open heart. As a child of the Second Intifada, fear, suspicion, and anger were the only emotions I could ever imagine having towards my Palestinian neighbors. With legal bans and both physical and psychological barriers, most Israelis go through life never meeting face-to-face with this ultimate 'other.' Upon turning 20, I was sent as a combat soldier to the occupied West Bank. For the first time in my life, I faced the day-to-day price Palestinians pay for the beliefs I then had. Something in me cracked.",
+    "weekRange": [29, 39]
+  },
+  {
+    "id": "bamidbar",
+    "he": "בַּמִּדְבָּר",
+    "en": "Bamidbar",
+    "subtitle": "Commitment",
+    "color": "#B8860B",
+    "narrative": "Bamidbar tells about forty years of desert-wandering before finally entering the promised land. My Palestine chapter ended more abruptly than I had expected. In May 2021 civil and military violence erupted throughout the Holy Land, a startling reminder of its fragility. Vowing to return, I turned back to Israel to explore its nation within a nation — the insular Ultra-Orthodox communities. Visiting Mea She'arim, Bnei Brak and Ponevezh — the flagship Yeshiva of this post-holocaust non-Zionist universe — I joined Menahem for an all-nighter Torah study. Come dawn he assured me if I ever wanted to talk again, he will be sitting and studying on this same bench for the next twenty years.",
+    "weekRange": [40, 51]
+  },
+  {
+    "id": "devarim",
+    "he": "דְּבָרִים",
+    "en": "Devarim",
+    "subtitle": "Trauma & Recovery",
+    "color": "#6B8CAE",
+    "narrative": "By presenting a coherent narrative of all that happened before, Devarim integrates sporadic moments in the life of the nation into a comprehensive and linear whole. After traveling the Holy Land for months, I was now preparing to pursue my doctorate in the U.S. I stopped to explore the roots of Jewish national trauma in Munich, Berlin and Vienna — confronting memory, trauma and recovery — before arriving at Yale to write my song.",
+    "weekRange": [52, 59]
+  }
+]

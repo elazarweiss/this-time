@@ -1,0 +1,38 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: #F5F0E8;
+  --foreground: #2C1810;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  color: var(--foreground);
+  background: var(--background);
+  font-family: Georgia, "Times New Roman", serif;
+  overflow-x: hidden;
+}
+
+/* Hebrew text */
+[lang="he"], .hebrew {
+  font-family: "Frank Ruhl Libre", "Times New Roman", serif;
+  direction: rtl;
+  unicode-bidi: bidi-override;
+}
+
+/* Custom scrollbar for timeline */
+.timeline-scroll::-webkit-scrollbar {
+  height: 6px;
+}
+.timeline-scroll::-webkit-scrollbar-track {
+  background: #E8E0D0;
+}
+.timeline-scroll::-webkit-scrollbar-thumb {
+  background: #8B7355;
+  border-radius: 3px;
+}

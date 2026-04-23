@@ -1,0 +1,496 @@
+[
+  {
+    "id": 1,
+    "photos": ["1.jpg"],
+    "book": "bereshit",
+    "location": "Yehuda Desert",
+    "parsha": { "he": "בְּרֵאשִׁית", "en": "Bereshit" },
+    "verse": {
+      "he": "לְהַתְחִיל מִבְּרֵאשִׁית",
+      "en": "New beginnings",
+      "source": ""
+    },
+    "coords": [31.5, 35.2]
+  },
+  {
+    "id": 2,
+    "photos": ["2.jpg"],
+    "book": "bereshit",
+    "location": "Tekoa",
+    "parsha": { "he": "נֹחַ", "en": "Noach" },
+    "verse": {
+      "he": "וְהִנֵּה עֲלֵה זַיִת טָרָף בְּפִיהָ",
+      "en": "There in her beak was a freshly plucked olive leaf",
+      "source": "Genesis 8, 11"
+    },
+    "coords": [31.57, 35.22]
+  },
+  {
+    "id": 3,
+    "photos": ["3.jpg"],
+    "book": "bereshit",
+    "location": "Habima Square, Tel Aviv",
+    "parsha": { "he": "לֶךְ לְךָ", "en": "Lech Lecha" },
+    "verse": {
+      "he": "לֶךְ לְךָ מֵאַרְצְךָ וּמִמּוֹלַדְתְּךָ וּמִבֵּית אָבִיךָ",
+      "en": "Go from your country, your people and your father's home",
+      "source": "Genesis 12, 1"
+    },
+    "coords": [32.07, 34.78]
+  },
+  {
+    "id": 4,
+    "photos": ["4.jpg"],
+    "book": "bereshit",
+    "location": "Lod",
+    "parsha": { "he": "וַיֵּרָא", "en": "Vayera" },
+    "verse": {
+      "he": "לַעֲשׂוֹת צְדָקָה וּמִשְׁפָּט",
+      "en": "To do what is right and just",
+      "source": "Genesis 18, 19"
+    },
+    "coords": [31.95, 34.89]
+  },
+  {
+    "id": 5,
+    "photos": ["5.jpg"],
+    "book": "bereshit",
+    "location": "Palmachim Beach",
+    "parsha": { "he": "חַיֵּי שָׂרָה", "en": "Chayei Sarah" },
+    "verse": {
+      "he": "וְהִצְלִיחַ דַּרְכֶּךָ",
+      "en": "May he bless your path",
+      "source": "Genesis 24, 40"
+    },
+    "coords": [31.93, 34.69]
+  },
+  {
+    "id": 6,
+    "photos": ["6.jpg", "7.jpg"],
+    "book": "bereshit",
+    "location": "Haifa",
+    "parsha": { "he": "תּוֹלְדֹת", "en": "Toldot" },
+    "verse": {
+      "he": "הֲשָׁלוֹם לוֹ וַיֹּאמְרוּ שָׁלוֹם",
+      "en": "Come and go in peace",
+      "source": "Genesis 29, 6"
+    },
+    "coords": [32.82, 34.99]
+  },
+  {
+    "id": 8,
+    "photos": ["8.jpg", "9.jpg"],
+    "book": "bereshit",
+    "location": "Maale Gilboa",
+    "parsha": { "he": "וַיֵּצֵא–וַיִּשְׁלַח", "en": "Vayetzeh–Vayishlach" },
+    "verse": {
+      "he": "שׁוּב לְאַרְצְךָ וּלְמוֹלַדְתְּךָ",
+      "en": "Return to your homeland and people",
+      "source": "Genesis 32, 10"
+    },
+    "coords": [32.49, 35.43]
+  },
+  {
+    "id": 10,
+    "photos": ["10.jpg"],
+    "book": "bereshit",
+    "location": "'Yanshuf' Organic Farm, Metula",
+    "parsha": { "he": "וַיֵּשֶׁב", "en": "Vayeshev" },
+    "verse": {
+      "he": "קְחוּ מִזִּמְרַת הָאָרֶץ בִּכְלֵיכֶם",
+      "en": "Take of the best fruits in the land",
+      "source": "Genesis 43, 11"
+    },
+    "coords": [33.27, 35.57]
+  },
+  {
+    "id": 11,
+    "photos": ["11.jpg", "12.jpg"],
+    "book": "bereshit",
+    "location": "Hanukah, Jerusalem",
+    "parsha": { "he": "מִקֵּץ", "en": "Miketz" },
+    "verse": {
+      "he": "פִּרְסוּמֵי נִסָּא",
+      "en": "Public miracles",
+      "source": "From the liturgy"
+    },
+    "coords": [31.78, 35.22]
+  },
+  {
+    "id": 13,
+    "photos": ["13.jpg"],
+    "book": "bereshit",
+    "location": "Maalot Yeshiva",
+    "parsha": { "he": "וַיִּגַּשׁ", "en": "Vayigash" },
+    "verse": {
+      "he": "וְהִנֵּה עֵינֵיכֶם רֹאוֹת כִּי פִי הַמְדַבֵּר אֲלֵיכֶם",
+      "en": "You see with your own eyes that it is me who is speaking to you",
+      "source": "Genesis 45, 12"
+    },
+    "coords": [33.01, 35.27]
+  },
+  {
+    "id": 14,
+    "photos": ["14.jpg"],
+    "book": "bereshit",
+    "location": "Jordan River, Galilee",
+    "parsha": { "he": "וַיְחִי", "en": "Vayechi" },
+    "verse": {
+      "he": "כִּי בְמַקְלִי עָבַרְתִּי אֶת הַיַּרְדֵּן הַזֶּה וְעַתָּה הָיִיתִי",
+      "en": "I crossed this Jordan with nothing but have now become",
+      "source": "Genesis 32, 11"
+    },
+    "coords": [32.7, 35.57]
+  },
+  {
+    "id": 15,
+    "photos": ["15.jpg", "16.jpg", "17.jpg", "18.jpg", "19.jpg"],
+    "book": "shemot",
+    "location": "Covid-19 lockdown, Haifa",
+    "parsha": { "he": "שְׁמוֹת–יִתְרוֹ", "en": "Shemot–Yitro" },
+    "verse": {
+      "he": "כָּל הַמַּחֲלָה אֲשֶׁר שַׂמְתִּי בְמִצְרַיִם לֹא אָשִׂים עָלֶיךָ כִּי אֲנִי רֹפְאֶךָ",
+      "en": "I am your healer and will not bring upon you the plagues of the past",
+      "source": "Exodus 15, 26"
+    },
+    "coords": [32.82, 34.99]
+  },
+  {
+    "id": 21,
+    "photos": ["21.jpg"],
+    "book": "shemot",
+    "location": "Harish",
+    "parsha": { "he": "תְּרוּמָה", "en": "Terumah" },
+    "verse": {
+      "he": "כָּל אִישׁ אֲשֶׁר יִדְּבֶנּוּ לִבּוֹ",
+      "en": "Anyone whose heart prompts them to give",
+      "source": "Exodus 25, 2"
+    },
+    "coords": [32.46, 35.02]
+  },
+  {
+    "id": 22,
+    "photos": ["22.jpg"],
+    "book": "shemot",
+    "location": "Purim, Jerusalem",
+    "parsha": { "he": "תְּצַוֶּה", "en": "Tetzaveh" },
+    "verse": {
+      "he": "עַל מִקְרָא מְגִלָּה",
+      "en": "To read ancient texts",
+      "source": "From the liturgy"
+    },
+    "coords": [31.78, 35.22]
+  },
+  {
+    "id": 23,
+    "photos": ["23.jpg", "24.jpg"],
+    "book": "shemot",
+    "location": "Western Wall & Mt. Herzl, Jerusalem",
+    "parsha": { "he": "כִּי תִשָּׂא", "en": "Ki Tisa" },
+    "verse": {
+      "he": "הוֹדִעֵנִי נָא אֶת דְּרָכֶךָ וְאֵדָעֲךָ",
+      "en": "Teach me your ways so I may understand",
+      "source": "Exodus 33, 13"
+    },
+    "coords": [31.78, 35.22]
+  },
+  {
+    "id": 25,
+    "photos": ["25.jpg"],
+    "book": "shemot",
+    "location": "Israel–Lebanon Border",
+    "parsha": { "he": "וַיַּקְהֵל", "en": "Vayakhel" },
+    "verse": {
+      "he": "וְלִפְאַת צָפוֹן וְלַכָּתֵף הַשֵּׁנִית",
+      "en": "And to the North and the other side",
+      "source": "Exodus 38, 11–15"
+    },
+    "coords": [33.27, 35.57]
+  },
+  {
+    "id": 26,
+    "photos": ["26.jpg", "27.jpg"],
+    "book": "shemot",
+    "location": "Helicopter Disaster memorial, She'ar Yashuv & 'Roaring Lion,' Kfar Giladi",
+    "parsha": { "he": "פְקוּדֵי", "en": "Pekudei" },
+    "verse": {
+      "he": "וְאֵשׁ תִּהְיֶה לַיְלָה בּוֹ לְעֵינֵי כָל בֵּית יִשְׂרָאֵל בְּכָל מַסְעֵיהֶם",
+      "en": "And fire by night showed the way for all Israelites throughout their journeys",
+      "source": "Exodus 40, 38"
+    },
+    "coords": [33.23, 35.59]
+  },
+  {
+    "id": 28,
+    "photos": ["28.jpg"],
+    "book": "shemot",
+    "location": "Army boots",
+    "parsha": { "he": "שַׁבָּת", "en": "Shabbat" },
+    "verse": {
+      "he": "שֶׁתּוֹלִיכֵנוּ, תַצְעִידֵנוּ וְתַדְרִיכֵנוּ לְשָׁלוֹם וְתַגִּיעֵנוּ לִמְחוֹז חֶפְצֵנוּ לְחַיִּים וּלְשִׂמְחָה וּלְשָׁלוֹם",
+      "en": "May we go, march and be guided to our heart's destination in life, joy and peace",
+      "source": "From the liturgy"
+    },
+    "coords": [31.78, 35.22]
+  },
+  {
+    "id": 29,
+    "photos": ["29.jpg"],
+    "book": "vayikra",
+    "location": "Majdal Shams",
+    "parsha": { "he": "וַיִּקְרָא", "en": "Vayikra" },
+    "verse": {
+      "he": "וְאִם כָּל עֲדַת יִשְׂרָאֵל יִשְׁגּוּ וְנֶעְלַם דָּבָר מֵעֵינֵי הַקָּהָל וְאָשֵׁמוּ",
+      "en": "If the whole community of Israel errs inadvertently and without awareness and are thus found guilty",
+      "source": "Leviticus 4, 13"
+    },
+    "coords": [33.26, 35.77]
+  },
+  {
+    "id": 30,
+    "photos": ["30.jpg"],
+    "book": "vayikra",
+    "location": "Nazareth",
+    "parsha": { "he": "צַו", "en": "Tzav" },
+    "verse": {
+      "he": "אֵשׁ תָּמִיד תּוּקַד לֹא תִכְבֶּה",
+      "en": "An eternal fire shall burn and never go out",
+      "source": "Leviticus 6, 9"
+    },
+    "coords": [32.7, 35.3]
+  },
+  {
+    "id": 31,
+    "photos": ["31.jpg"],
+    "book": "vayikra",
+    "location": "Jericho",
+    "parsha": { "he": "שְׁמִינִי", "en": "Shemini" },
+    "verse": {
+      "he": "וַיִּדֹּם אַהֲרֹן",
+      "en": "And Aaron held his peace",
+      "source": "Leviticus 10, 13"
+    },
+    "coords": [31.86, 35.44]
+  },
+  {
+    "id": 32,
+    "photos": ["32.jpg", "33.jpg"],
+    "book": "vayikra",
+    "location": "Jerusalem (West)",
+    "parsha": { "he": "פֶּסַח", "en": "Pesach" },
+    "verse": {
+      "he": "פֶּסַח, מַצָּה וּמָרוֹר",
+      "en": "Passover, Matzah and Bitterness",
+      "source": "From the liturgy"
+    },
+    "coords": [31.78, 35.22]
+  },
+  {
+    "id": 34,
+    "photos": ["34.jpg"],
+    "book": "vayikra",
+    "location": "Separation Wall, Bethlehem",
+    "parsha": { "he": "מְצֹרָע", "en": "Metzora" },
+    "verse": {
+      "he": "וְחִלְּצוּ אֶת הָאֲבָנִים אֲשֶׁר בָּהֵן הַנָּגַע",
+      "en": "The contaminated stones shall be torn down",
+      "source": "Leviticus 14, 40"
+    },
+    "coords": [31.71, 35.2]
+  },
+  {
+    "id": 35,
+    "photos": ["35.jpg", "36.jpg"],
+    "book": "vayikra",
+    "location": "Cairo",
+    "parsha": { "he": "אַחֲרֵי מוֹת–קְדֹשִׁים", "en": "Acharei Mot–Kedoshim" },
+    "verse": {
+      "he": "כְּמַעֲשֵׂה אֶרֶץ מִצְרַיִם אֲשֶׁר יְשַׁבְתֶּם בָּהּ",
+      "en": "Like the deeds of the land of Egypt where you once lived",
+      "source": "Leviticus 18, 3"
+    },
+    "coords": [30.04, 31.24]
+  },
+  {
+    "id": 37,
+    "photos": ["37.jpg", "38.jpg", "39.jpg"],
+    "book": "vayikra",
+    "location": "Taibe, Kafr Qasim & Umm al-Fahm",
+    "parsha": { "he": "בְּהַר–בְּחֻקֹּתַי", "en": "Behar–Bechukotai" },
+    "verse": {
+      "he": "וּקְרָאתֶם דְּרוֹר בָּאָרֶץ לְכָל יֹשְׁבֶיהָ",
+      "en": "Proclaim liberty throughout the land to all its inhabitants",
+      "source": "Leviticus 25, 10"
+    },
+    "coords": [32.17, 34.95]
+  },
+  {
+    "id": 40,
+    "photos": ["40.jpg", "41.jpg"],
+    "book": "bamidbar",
+    "location": "Western Wall & Lookout, Jerusalem",
+    "parsha": { "he": "אַחֲרֵי מוֹת–קְדֹשִׁים", "en": "Acharei Mot–Kedoshim" },
+    "verse": {
+      "he": "וְזֹאת עֲשׂוּ לָהֶם וְחָיוּ וְלֹא יָמֻתוּ",
+      "en": "This they should do to live and not die",
+      "source": "Numbers 4, 19"
+    },
+    "coords": [31.78, 35.22]
+  },
+  {
+    "id": 42,
+    "photos": ["42.jpg"],
+    "book": "bamidbar",
+    "location": "Ponevezh Yeshiva, Bnei Brak",
+    "parsha": { "he": "נָשֹׂא", "en": "Naso" },
+    "verse": {
+      "he": "וְסָמְכוּ בְנֵי יִשְׂרָאֵל אֶת יְדֵיהֶם עַל הַלְוִיִּם",
+      "en": "And the Israelites shall entrust the Levites",
+      "source": "Numbers 8, 10"
+    },
+    "coords": [32.08, 34.84]
+  },
+  {
+    "id": 43,
+    "photos": ["43.jpg"],
+    "book": "bamidbar",
+    "location": "Shavuot, Ponevezh Yeshiva, Bnei Brak",
+    "parsha": { "he": "בְּהַעֲלֹתְךָ", "en": "Beha'alotecha" },
+    "verse": {
+      "he": "אֲשֶׁר נָתַן לָנוּ תּוֹרַת אֱמֶת וְחַיֵּי עוֹלָם נָטַע בְּתוֹכֵנוּ",
+      "en": "Who gave us a true Torah and planted in us worldly life",
+      "source": "From the liturgy"
+    },
+    "coords": [32.08, 34.84]
+  },
+  {
+    "id": 44,
+    "photos": ["44.jpg", "45.jpg"],
+    "book": "bamidbar",
+    "location": "Mea She'arim & Ramat Beit Shemesh",
+    "parsha": { "he": "שְׁלַח לְךָ", "en": "Shelach" },
+    "verse": {
+      "he": "וַיֹּצִיאוּ דִּבַּת הָאָרֶץ אֲשֶׁר תָּרוּ אֹתָהּ אֶל בְּנֵי יִשְׂרָאֵל",
+      "en": "And they spread evil reports of the land they had explored",
+      "source": "Numbers 13, 32"
+    },
+    "coords": [31.78, 35.1]
+  },
+  {
+    "id": 46,
+    "photos": ["46.jpg", "47.jpg"],
+    "book": "bamidbar",
+    "location": "Ramat Beit Shemesh",
+    "parsha": { "he": "קֹרַח", "en": "Korach" },
+    "verse": {
+      "he": "כִּי כָל הָעֵדָה כֻּלָּם קְדֹשִׁים וּמַדּוּעַ תִּתְנַשְּׂאוּ",
+      "en": "All in the community are holy and why set yourself above them",
+      "source": "Numbers 16, 3"
+    },
+    "coords": [31.73, 35.0]
+  },
+  {
+    "id": 48,
+    "photos": ["48.jpg", "49.jpg", "50.jpg", "51.jpg"],
+    "book": "bamidbar",
+    "location": "Kibbutz Tzofar & Neot Smadar",
+    "parsha": { "he": "חֻקַּת–דְּבָרִים", "en": "Chukat–Devarim" },
+    "verse": {
+      "he": "וּבַמִּדְבָּר אֲשֶׁר רָאִיתָ אֲשֶׁר נְשָׂאֲךָ כַּאֲשֶׁר יִשָּׂא אִישׁ אֶת בְּנוֹ בְּכָל הַדֶּרֶךְ עַד הַמָּקוֹם הַזֶּה",
+      "en": "And in the desert you were carried as one carries their own child all along your journey until you arrived at this place",
+      "source": "Deuteronomy 1, 31"
+    },
+    "coords": [29.97, 35.15]
+  },
+  {
+    "id": 52,
+    "photos": ["52.jpg"],
+    "book": "devarim",
+    "location": "'Ohel Jakob' Synagogue, Munich",
+    "parsha": { "he": "רְאֵה", "en": "Re'eh" },
+    "verse": {
+      "he": "אֵיכָה יַעַבְדוּ הַגּוֹיִם הָאֵלֶּה אֶת אֱלֹהֵיהֶם",
+      "en": "How do these nations serve their gods",
+      "source": "Deuteronomy 12, 30"
+    },
+    "coords": [48.14, 11.58]
+  },
+  {
+    "id": 53,
+    "photos": ["53.jpg"],
+    "book": "devarim",
+    "location": "'Voided Void' memorial, Jewish Museum of Berlin",
+    "parsha": { "he": "שֹׁפְטִים", "en": "Shoftim" },
+    "verse": {
+      "he": "לֹא תַכִּיר פָּנִים",
+      "en": "You shall not recognize any faces",
+      "source": "Deuteronomy 16, 19"
+    },
+    "coords": [52.5, 13.39]
+  },
+  {
+    "id": 54,
+    "photos": ["54.jpg"],
+    "book": "devarim",
+    "location": "Judenplatz Holocaust Memorial, Vienna",
+    "parsha": { "he": "כִּי תֵצֵא", "en": "Ki Tetze" },
+    "verse": {
+      "he": "לֹא תוּכַל לְהִתְעַלֵּם",
+      "en": "You must not ignore",
+      "source": "Deuteronomy 22, 3"
+    },
+    "coords": [48.21, 16.37]
+  },
+  {
+    "id": 55,
+    "photos": ["55.jpg"],
+    "book": "devarim",
+    "location": "Connecticut, U.S.A.",
+    "parsha": { "he": "כִּי תָבוֹא", "en": "Ki Tavo" },
+    "verse": {
+      "he": "כִּי תָבוֹא אֶל הָאָרֶץ וְשָׂמַחְתָּ בְכָל הַטּוֹב",
+      "en": "When you come to the land you shall rejoice in all the good",
+      "source": "Deuteronomy 26, 1–11"
+    },
+    "coords": [41.6, -72.7]
+  },
+  {
+    "id": 56,
+    "photos": ["56.jpg"],
+    "book": "devarim",
+    "location": "Yale Law School",
+    "parsha": { "he": "נִצָּבִים–וַיֵּלֶךְ", "en": "Nitzavim–Vayelech" },
+    "verse": {
+      "he": "וְעַתָּה כִּתְבוּ לָכֶם אֶת הַשִּׁירָה הַזֹּאת",
+      "en": "Now write your song",
+      "source": "Deuteronomy 31, 19"
+    },
+    "coords": [41.31, -72.93]
+  },
+  {
+    "id": 57,
+    "photos": ["57.jpg", "58.jpg"],
+    "book": "devarim",
+    "location": "Sukkot — Jerusalem & Yale Law School",
+    "parsha": { "he": "סוּכּוֹת", "en": "Sukkot" },
+    "verse": {
+      "he": "צֵא מִדִּירַת קֶבַע וְשֵׁב בְּדִירַת עַרְאִי",
+      "en": "Wandering",
+      "source": "From the liturgy"
+    },
+    "coords": [31.78, 35.22]
+  },
+  {
+    "id": 59,
+    "photos": ["59.jpg"],
+    "book": "devarim",
+    "location": "Self-Reflections",
+    "parsha": { "he": "וְזֹאת הַבְּרָכָה", "en": "Vezot Habracha" },
+    "verse": {
+      "he": "אִם אֵין אֲנִי לִי מִי לִי",
+      "en": "If I am not with myself, who am I",
+      "source": "From the Talmud"
+    },
+    "coords": [31.78, 35.22]
+  }
+]
